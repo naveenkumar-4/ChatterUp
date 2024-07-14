@@ -21,7 +21,7 @@ ChatterUp is an interactive real-time chat application designed to facilitate se
 9. Profile Pictures for User Consistency:
    - Displays an associated profile picture for each user throughout their conversation, providing a consistent visual identity.
 10. Displaying Chat Messages:
-   - Displays the user's name, profile picture, message content, and the time of posting for each chat message.
+    - Displays the user's name, profile picture, message content, and the time of posting for each chat message.
 11. Project Setup
     - Backend Setup:
       - Navigate to the backend directory.
