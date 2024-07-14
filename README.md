@@ -3,10 +3,9 @@ ChatterUp is an interactive real-time chat application designed to facilitate se
 
 ## Features
 1. Real-time Communication:
-   ### Utilizes WebSockets through the Socket.io library for real-time, bidirectional communication between users.
-Code Modularity:
-
-Follows modern development practices by employing ES6 Modules for code organization, ensuring maintainability and ease of collaboration.
+   - Utilizes WebSockets through the Socket.io library for real-time, bidirectional communication between users.
+2. Code Modularity:
+   - Follows modern development practices by employing ES6 Modules for code organization, ensuring maintainability and ease of collaboration.
 User-Friendly Chat UI:
 
 Designed with HTML, CSS, and JavaScript to enhance the user experience, including components for seamless chatting and a notification panel displaying online users.
